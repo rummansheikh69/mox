@@ -205,11 +205,11 @@ function App() {
           </div>
           <div className=" w-full h-72 md:h-96 shadow-[4px_4px_0px_0px_#ca9823] px-5 rounded-lg bg-button border border-yellow-400 flex flex-col justify-center gap-3">
             <h1 className=" text-2xl md:text-3xl text-stroke hero text-center">
-              4. Swap $BOU
+              4. Swap $MOX
             </h1>
             <p className=" next text-black text-center">
               Click and select $BOU token or paste the Token Contract Address
-              into Bonk and swap SOL for $BOU.
+              into Bonk and swap SOL for $MOX.
             </p>
           </div>
         </div>
