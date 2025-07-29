@@ -44,7 +44,7 @@ function App() {
                     <RiUserCommunityLine className=" text-white" />
                   </a>
                   <a
-                    href="https://letsbonk.fun/token/88KV6h8g5sXfZiUAfvjQxd6gxDiSmfajLmVh2x2Dbonk"
+                    href="https://letsbonk.fun/token/iivVNRcC4RAEBjiSzxMgTPxeuXPuvKTd5i6do1Abonk"
                     className=" px-4 py-2 hero bg-darkis rounded-lg"
                   >
                     BUY MOX
@@ -54,13 +54,13 @@ function App() {
               <div className=" w-full h-full flex items-center justify-center">
                 <div className=" flex items-center gap-4 justify-between px-5 w-80 md:w-max rounded-lg bg-darkis py-2">
                   <p className=" ex truncate">
-                    88KV6h8g5sXfZiUAfvjQxd6gxDiSmfajLmVh2x2Dbonk
+                    iivVNRcC4RAEBjiSzxMgTPxeuXPuvKTd5i6do1Abonk
                   </p>
                   <div>
                     <button
                       onClick={() => {
                         navigator.clipboard.writeText(
-                          "88KV6h8g5sXfZiUAfvjQxd6gxDiSmfajLmVh2x2Dbonk"
+                          "iivVNRcC4RAEBjiSzxMgTPxeuXPuvKTd5i6do1Abonk"
                         );
                         setCopy(true);
                         setTimeout(() => {
