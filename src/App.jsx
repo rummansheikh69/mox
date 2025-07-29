@@ -27,7 +27,7 @@ function App() {
               <div className=" w-full flex items-center justify-between px-5 md:px-32 py-5">
                 <div className=" flex flex-col items-center">
                   <h3 className="ex text-stroke -rotate-6">MEET YOUR</h3>
-                  <h3 className=" text-3xl next leading-3 text-button">MOX</h3>
+                  <h3 className=" text-3xl next leading-3 text-button">MOXGANG</h3>
                   <h3 className="heading mt-1 text-sm">Powered by Solana</h3>
                 </div>
                 <div className=" flex gap-5">
@@ -205,7 +205,7 @@ function App() {
           </div>
           <div className=" w-full h-72 md:h-96 shadow-[4px_4px_0px_0px_#ca9823] px-5 rounded-lg bg-button border border-yellow-400 flex flex-col justify-center gap-3">
             <h1 className=" text-2xl md:text-3xl text-stroke hero text-center">
-              4. Swap $MOX
+              4. Swap $MOXGANG
             </h1>
             <p className=" next text-black text-center">
               Click and select $BOU token or paste the Token Contract Address
